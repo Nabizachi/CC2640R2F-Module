@@ -1,7 +1,7 @@
 EESchema Schematic File Version 4
 EELAYER 30 0
 EELAYER END
-$Descr A2 23386 16535
+$Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
@@ -293,9 +293,9 @@ Wire Wire Line
 	8750 2900 8750 2850
 NoConn ~ 9450 1850
 Wire Notes Line
-	11850 5700 11850 600 
+	11000 5700 11000 600 
 Wire Notes Line
-	11850 600  7250 600 
+	11000 600  7250 600 
 Text Notes 7350 800  0    100  ~ 0
 Connectors
 Text Notes 8150 1450 0    50   ~ 0
@@ -636,7 +636,7 @@ F 3 "" H 8750 5200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Notes Line
-	7250 5700 11850 5700
+	7250 5700 11000 5700
 Wire Notes Line
 	7250 600  7250 5700
 Text GLabel 4250 3950 2    50   Output ~ 0
@@ -1245,4 +1245,12 @@ Wire Wire Line
 Connection ~ 6150 5200
 Wire Wire Line
 	6150 5200 6150 5250
+Wire Notes Line
+	650  4550 650  7700
+Wire Notes Line
+	650  7700 6850 7700
+Wire Notes Line
+	6850 7700 6850 4550
+Wire Notes Line
+	650  4550 6850 4550
 $EndSCHEMATC

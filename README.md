@@ -8,11 +8,15 @@ Repository Contents<br/>
 - Модель: 3D Модель в step формате, Gerber файлы для производства.<br/>
 - Scheme: Исходники (KiCad)<br/>
 - Информация: здесь я обычно храню даташиты и прочеую инфу необходимую для проекта, в данном случае здесь ничего нет :)<br/><br/><br/><br/>
-![3D модель печатной платы](https://sun9-53.userapi.com/impg/ON1FBJHTmMbXcHkyFC4urGDAB8AhF2gm2XHa_w/bvMUPCaGUyU.jpg?size=800x674&quality=96&sign=1049d1adaca157e9ead0a4e1143808b8&type=album)<br/>
-3D PCB Model<br/>
-
-![Трассировка](https://sun9-40.userapi.com/impg/dxCDJtVv9gojRy1lbPbcVciXbI0WxGCnUIw2lQ/cigxnNteQoU.jpg?size=653x790&quality=96&sign=00ced6f5824219e772e22e7958757795&type=album)/><br>
-PCB tracing<br/><br/><br/><br>
+<div align="center">
+<img src=https://sun9-53.userapi.com/impg/ON1FBJHTmMbXcHkyFC4urGDAB8AhF2gm2XHa_w/bvMUPCaGUyU.jpg?size=800x674&quality=96&sign=1049d1adaca157e9ead0a4e1143808b8&type=album" >
+<p>3D PCB Model</p>
+</div><br>
+<div align="center">
+<img src=https://sun9-40.userapi.com/impg/dxCDJtVv9gojRy1lbPbcVciXbI0WxGCnUIw2lQ/cigxnNteQoU.jpg?size=653x790&quality=96&sign=00ced6f5824219e772e22e7958757795&type=albu" >
+<p>PCB tracing</p>
+</div>
+<br/><br/><br/>
 License Information<br/>
 -------------------<br/>
 THE BEER-WARE LICENSE<br/>

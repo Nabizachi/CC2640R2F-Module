@@ -7,7 +7,7 @@ Repository Contents<br/>
 - КД: Конструкторская документация (BOM, принципиальная схема, сборочный чертеж)<br/>
 - Модель: 3D Модель в step формате, Gerber файлы для производства.<br/>
 - Scheme: Исходники (KiCad)<br/>
-- Информация: здесь я обычно храню даташиты и прочеую инфу необходимую для проекта, в данном случае здесь ничего нет :)<br/><br/><br/><br/>
+- Информация: здесь я обычно храню даташиты и прочую инфу необходимую для проекта, в данном случае здесь ничего нет :)<br/><br/><br/><br/>
 <div align="center">
 <img src=https://sun9-53.userapi.com/impg/ON1FBJHTmMbXcHkyFC4urGDAB8AhF2gm2XHa_w/bvMUPCaGUyU.jpg?size=800x674&quality=96&sign=1049d1adaca157e9ead0a4e1143808b8&type=album" >
 <p>3D PCB Model</p>
